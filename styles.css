@@ -60,7 +60,9 @@
         color: #11999E;
         margin-left: 20px;
         text-decoration : none;
-
+    }
+     a:hover{
+        color : white;
     }
     .footer-text{
         color: #EAF6F6;
